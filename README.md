@@ -1,10 +1,12 @@
-# Guild Smart COntract Assignment
+# Guild Audit Smart Cntract Assignment
 
 
 ## Assignment
 <ol>
 <li>List all known Weird ERC20 Tokens with proof of code</li>
 </ol>
+
+## ![ERC20 img](https://cdn.publish0x.com/prod/fs/images/895316fdfaecea419a6bcfa8aff24b278aaf7a87da66089050d84e9b17ffc664.png)
 
 
 ### Weird ERC20 Tokens
