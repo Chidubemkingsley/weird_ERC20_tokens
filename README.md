@@ -1,4 +1,5 @@
-# Guild Audit Smart Cntract Assignment
+# Guild Audit Smart Contract Assignment
+
 
 
 ## Assignment
